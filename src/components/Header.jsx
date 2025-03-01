@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className=" z-10 w-full absolute px-8 py-2 bg-gradient-to-b from-black ">
+    <div className="z-10 w-full absolute px-8 py-2 bg-gradient-to-b from-black ">
       <div className="flex justify-between">
         <img
           className="w-44"

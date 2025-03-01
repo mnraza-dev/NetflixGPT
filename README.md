@@ -1,9 +1,10 @@
 # Netflix GPT
-
+- Header
+- Login Form
+- Sign Up Form
+- Browse Page
 
 # Features
-## Header
-- A header component that is always visible at the top of the page.
 
 ## Login/Sign Up
 - Sign-in Form

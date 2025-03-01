@@ -1,8 +1,9 @@
 import React from 'react'
+import Body from './components/Body'
 
 const App = () => {
   return (
-    <div className='text-6xl text-center font-bold underline text-blue-500'>App</div>
+    <Body/>
   )
 }
 
